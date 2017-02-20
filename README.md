@@ -1,0 +1,2 @@
+# Erewhon
+direct democracy
