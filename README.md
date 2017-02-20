@@ -1,7 +1,7 @@
 # Erewhon
 A direct democracy
 
-Hi! We would like to create a direct democracy. Thanks for reading!
+Hi! We would like to create a direct democracy. Thanks for reading.
 
 Our view is that there are various inefficiencies in representative government; we want to cut out the middle man. We want to use the internet to govern ourselves.
 
